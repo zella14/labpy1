@@ -15,7 +15,7 @@ Berikut ini adalah contoh penggunaan if di Python :
 
 	![GitHub Logo](c.png)
 - Untuk memeriksa kondisi yang tidak memenuhi kondisi utama. 
-Maka else digunakan untk menangani semua kondisi selain kondisi yang telah dituliskan. 
+Maka else digunakan untuk menangani semua kondisi selain kondisi yang telah dituliskan. 
 Berikut adalah contoh penggunaan else di dalam kondisional Python:
 
 	![GitHub Logo](d.png)
