@@ -4,11 +4,11 @@
 
 **print** berfungsi untuk menampilkan output.
 
-![GitHub Logo](a1.png)
+	![alt text](a1.png)
 
 **def** merupakan fungsi dari bahasa python.
 
-	![GitHub Logo](a2.png)
+	![alt text](a2.png)
 
 **int(input(...))** berfungsi menampilkan program/apa yang diinputkan.
 
