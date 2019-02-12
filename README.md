@@ -1,4 +1,4 @@
-	![GitHub Logo](a.png)
+	![alt text](a.png)
 
 ## Penjelasan program yang dibuat ##
 
@@ -42,4 +42,4 @@ Berikut adalah contoh penggunaan **else** di dalam kondisional Python:
 
 ## Hasil Eksekusi ##
 
-	![GitHub Logo](f.png)	
+	![GitHub Logo](e.png)	
