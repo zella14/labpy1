@@ -42,4 +42,4 @@ Berikut adalah contoh penggunaan **else** di dalam kondisional Python:
 
 ## Hasil Eksekusi ##
 
-	![GitHub Logo](e.png)	
+![GitHub Logo](e.png)	
