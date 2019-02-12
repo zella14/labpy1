@@ -12,11 +12,11 @@
 
 **int(input(...))** berfungsi menampilkan program/apa yang diinputkan.
 
-	![GitHub Logo](a3.png)
+![alt text](a3.png)
 
 **return** berfungsi mengulang fungsi awal.
 
-	![GitHub Logo](a4.png)
+![alt text](a4.png)
 
 ## Macam - macam kondisional python ##
 
