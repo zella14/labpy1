@@ -4,11 +4,11 @@
 
 **print** berfungsi untuk menampilkan output.
 
-	![alt text](a1.png)
+![alt text](a1.png)
 
 **def** merupakan fungsi dari bahasa python.
 
-	![alt text](a2.png)
+![alt text](a2.png)
 
 **int(input(...))** berfungsi menampilkan program/apa yang diinputkan.
 
