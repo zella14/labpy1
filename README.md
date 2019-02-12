@@ -1,4 +1,4 @@
-	![alt text](a.png)
+![alt text](a.png)
 
 ## Penjelasan program yang dibuat ##
 
