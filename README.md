@@ -47,7 +47,7 @@ Berikut adalah contoh penggunaan **else** di dalam kondisional Python:
 Save program (Ctrl+s), taruh penempatan file (misal di drive D:), dan beri nama.
 ![GitHub Logo](9.png)
 
-##Hasil Eksekusi##
+## Hasil Eksekusi ##
 
 ![GitHub Logo](10.png)
 
